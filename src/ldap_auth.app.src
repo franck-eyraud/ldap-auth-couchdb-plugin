@@ -1,6 +1,6 @@
 %% -*- mode: erlang -*-
-{application, my_first_couchdb_plugin, [
-    {description, "My First CouchDB Plugin"},
+{application, ldap_auth, [
+    {description, "LDAP CouchDB Plugin"},
     {vsn, "0.0.0"},
     {modules, []},
     {registered, []},
