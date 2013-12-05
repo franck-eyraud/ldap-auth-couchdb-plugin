@@ -1,3 +1,3 @@
--module(my_first_couchdb_plugin_tests).
+-module(ldap_auth_tests).
 -include_lib("eunit/include/eunit.hrl").
 
